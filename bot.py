@@ -8,9 +8,9 @@ import logging
 import random
 
 count = 0
-api_id = 371007
-api_hash = 'e6c796f63b5afba096bbf5237dfb9054'
-phone_number = '79255730693'
+api_id = 371XXX
+api_hash = 'e6c796f63b5xxxxxxxxxxxxx'
+phone_number = '7925554XXX'
 
 msg = (
     "🚀🚀 Hey, do you want to send messages to multiple Telegram groups automatically? 👈👈\n"
